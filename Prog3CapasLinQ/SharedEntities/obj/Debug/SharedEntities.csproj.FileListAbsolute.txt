@@ -1,0 +1,6 @@
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\SharedEntities\bin\Debug\SharedEntities.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\SharedEntities\bin\Debug\SharedEntities.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\SharedEntities\obj\Debug\SharedEntities.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\SharedEntities\obj\Debug\SharedEntities.csproj.CoreCompileInputs.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\SharedEntities\obj\Debug\SharedEntities.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\SharedEntities\obj\Debug\SharedEntities.pdb

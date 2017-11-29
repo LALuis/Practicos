@@ -1,0 +1,16 @@
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\DataLayer\bin\Debug\SharedEntities.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\DataLayer\bin\Debug\SharedEntities.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\DataLayer\bin\Debug\SharedEntities.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\DataLayer\bin\Debug\SharedEntities.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\DataLayer\obj\Debug\DataLayer.pdb

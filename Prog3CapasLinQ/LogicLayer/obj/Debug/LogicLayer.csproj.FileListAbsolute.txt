@@ -1,0 +1,20 @@
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\bin\Debug\DataLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\bin\Debug\SharedEntities.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\bin\Debug\DataLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\bin\Debug\SharedEntities.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\bin\Debug\DataLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\bin\Debug\SharedEntities.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\bin\Debug\DataLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\bin\Debug\SharedEntities.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\LogicLayer\obj\Debug\LogicLayer.pdb

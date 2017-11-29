@@ -1,0 +1,19 @@
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\Factura - Luis Lopez G21\Factura - Luis Lopez G21\bin\Debug\Factura - Luis Lopez G21.exe.config
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\Factura - Luis Lopez G21\Factura - Luis Lopez G21\bin\Debug\Factura - Luis Lopez G21.exe
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\Factura - Luis Lopez G21\Factura - Luis Lopez G21\bin\Debug\Factura - Luis Lopez G21.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.exe
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.pdb
+C:\Users\Admin.PORTABLE\Desktop\Factura - Luis Lopez G21\Factura - Luis Lopez G21\bin\Debug\Factura - Luis Lopez G21.exe.config
+C:\Users\Admin.PORTABLE\Desktop\Factura - Luis Lopez G21\Factura - Luis Lopez G21\bin\Debug\Factura - Luis Lopez G21.exe
+C:\Users\Admin.PORTABLE\Desktop\Factura - Luis Lopez G21\Factura - Luis Lopez G21\bin\Debug\Factura - Luis Lopez G21.pdb
+C:\Users\Admin.PORTABLE\Desktop\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Desktop\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.exe
+C:\Users\Admin.PORTABLE\Desktop\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\Factura - Luis Lopez G21\Factura - Luis Lopez G21\Factura - Luis Lopez G21\bin\Debug\Factura - Luis Lopez G21.exe.config
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\Factura - Luis Lopez G21\Factura - Luis Lopez G21\Factura - Luis Lopez G21\bin\Debug\Factura - Luis Lopez G21.exe
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\Factura - Luis Lopez G21\Factura - Luis Lopez G21\Factura - Luis Lopez G21\bin\Debug\Factura - Luis Lopez G21.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\Factura - Luis Lopez G21\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\Factura - Luis Lopez G21\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.csproj.CoreCompileInputs.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\Factura - Luis Lopez G21\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.exe
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\Factura - Luis Lopez G21\Factura - Luis Lopez G21\Factura - Luis Lopez G21\obj\Debug\Factura - Luis Lopez G21.pdb

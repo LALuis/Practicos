@@ -1,0 +1,26 @@
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\bin\Debug\UILayer.exe.config
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\bin\Debug\UILayer.exe
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\bin\Debug\UILayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\bin\Debug\LogicLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\bin\Debug\SharedEntities.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\bin\Debug\LogicLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\bin\Debug\SharedEntities.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\obj\Debug\UILayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\obj\Debug\UILayer.exe
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\obj\Debug\UILayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\bin\Debug\DataLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\LinQ3Capas\UILayer\bin\Debug\DataLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\bin\Debug\UILayer.exe.config
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\bin\Debug\UILayer.exe
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\bin\Debug\UILayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\bin\Debug\LogicLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\bin\Debug\SharedEntities.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\bin\Debug\DataLayer.dll
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\bin\Debug\LogicLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\bin\Debug\SharedEntities.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\bin\Debug\DataLayer.pdb
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\obj\Debug\UILayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\obj\Debug\UILayer.exe
+C:\Users\Admin.PORTABLE\Documents\Visual Studio 2017\Projects\1 - Entregados\LinQ3Capas\UILayer\obj\Debug\UILayer.pdb
